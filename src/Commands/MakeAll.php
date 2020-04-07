@@ -95,7 +95,7 @@ class MakeAll extends Command
      *
      * @var string
      */
-    protected $signature = 'make:all {--empty=false}';
+    protected $signature = 'make:all {--empty}';
 
     /**
      * The console command description.
