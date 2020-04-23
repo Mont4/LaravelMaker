@@ -6,5 +6,8 @@ use Mont4\LaravelFilter\Filter;
 
 class DummyFilterName extends Filter
 {
-	static $availableColumns = [];
+    protected $rtlSheet = true;
+
+    protected $availableColumns = [];
+    protected $ignoreColumns    = [];
 }
