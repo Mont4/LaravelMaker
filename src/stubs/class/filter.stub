@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use Mont4\Filter\Filter;
+use Mont4\LaravelFilter\Filter;
 
 class DummyFilterName extends Filter
 {

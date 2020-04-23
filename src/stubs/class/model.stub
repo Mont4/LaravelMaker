@@ -4,7 +4,7 @@ namespace DummyNamespace;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
-use Mont4\Filter\Filterable;
+use Mont4\LaravelFilter\Filterable;
 
 /**
  * Class DummyModelName
